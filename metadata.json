@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic Wallpapers",
+  "description": "Generate custom phone wallpapers tailored to your vibe with AI image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
